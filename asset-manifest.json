@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/boardle/static/css/main.5bbc1a4f.css",
-    "main.js": "/boardle/static/js/main.c6b68665.js",
+    "main.js": "/boardle/static/js/main.c43b8e49.js",
     "static/js/787.3500bfec.chunk.js": "/boardle/static/js/787.3500bfec.chunk.js",
     "index.html": "/boardle/index.html",
     "main.5bbc1a4f.css.map": "/boardle/static/css/main.5bbc1a4f.css.map",
-    "main.c6b68665.js.map": "/boardle/static/js/main.c6b68665.js.map",
+    "main.c43b8e49.js.map": "/boardle/static/js/main.c43b8e49.js.map",
     "787.3500bfec.chunk.js.map": "/boardle/static/js/787.3500bfec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5bbc1a4f.css",
-    "static/js/main.c6b68665.js"
+    "static/js/main.c43b8e49.js"
   ]
 }
